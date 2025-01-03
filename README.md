@@ -1,5 +1,6 @@
-# Led-control-using-Arduino
-
+# EXPERIMENT 1 : Led-control-using-Arduino 
+name:siva shalini.s
+reg no : 24009860
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -24,7 +25,6 @@ Step 8 GO to sketch and select verify to upload the program in the Arduino board
 Step 9 Press the push button and observe the LED's behavior </br>
 
 ## THEORY
-
 ### Introduction 
 
 LED pushbutton code is a program written for the Arduino UNO microcontroller that controls an LED using a pushbutton. When the pushbutton is pressed, the code reads the state of the button and turns the LED on or off accordingly.
@@ -58,9 +58,21 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![image](https://github.com/user-attachments/assets/810feec0-667a-427b-b01a-b5e6552c1e62)
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/8c6a9a72-0a26-4bce-9571-fdacdda0be01)
 
 ## OUTPUT
 
+LED OFF
+
+![image](https://github.com/user-attachments/assets/c75ea7f3-998f-43a9-b74f-5525f25b5c72)
+
+LED ON
+
+![image](https://github.com/user-attachments/assets/21d9127f-a4f3-42ea-af7d-8eb4b68aa1f3)
+
 ## RESULT
+designed and implemented a system for LED control using an Arduino microcontroller and a push button successfully.
+
